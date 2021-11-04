@@ -1,0 +1,30 @@
+{
+  "name": "yard-sale",
+  "version": "1.0.0",
+  "description": "React ecommerce",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mxrold/yard-sale.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "router",
+    "webpack",
+    "babel"
+  ],
+  "author": "Martin Roldan <martinroldan889@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mxrold/yard-sale/issues"
+  },
+  "homepage": "https://github.com/mxrold/yard-sale#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
